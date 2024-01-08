@@ -33,7 +33,7 @@
 
 ## Demo
 
-You can view a fully working demo at [demo-nextjs-with-supabase.vercel.app](https://demo-nextjs-with-supabase.vercel.app/).
+You can view a fully working demo at [https://nextjs-with-supabase-mu-sable.vercel.app](https://nextjs-with-supabase-mu-sable.vercel.app).
 
 ## Deploy to Vercel
 
